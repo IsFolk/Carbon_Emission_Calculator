@@ -16,7 +16,9 @@
 FROM node:lts-alpine as build-stage
 WORKDIR /app
 COPY package.json ./
-RUN npm install
+RUN apk add --update python3 make g++\
+   && rm -rf /var/cache/apk/*
+RUN npm install --legacy-peer-deps
 COPY . .
 RUN npm run build
 FROM nginx:stable-alpine as production-stage
