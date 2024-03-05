@@ -1,7 +1,8 @@
 # Vuejs_with_Fastapi
 
 Carbon emissions project demo with Vue and Fastapi on AWS EC2.
-**We all use open source data**
+
+**We all use open-source data**
 
 - yml, Dockerfile: for Docker setup
 - frontend: write with Vue3 & Typescript
