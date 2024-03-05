@@ -8,19 +8,11 @@ ITRI carbon emissions project demo with Vue and Fastapi.
 
 If you wanna see the demo site:
 
-
-[![Watch the video](https://img.youtube.com/vi/N4bZNW1D6_4/default.jpg)](https://youtu.be/N4bZNW1D6_4)
-
+https://youtu.be/N4bZNW1D6_4
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=N4bZNW1D6_4" target="_blank">
- <img src="http://img.youtube.com/vi/N4bZNW1D6_4/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/N4bZNW1D6_4/mqdefault.jpg" alt="Watch the video" width="500" height="500" border="10" />
 </a>
-
- <iframe width="560" height="315"
-src="https://www.youtube.com/embed/N4bZNW1D6_4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
 
 ### Backend: Fastapi
