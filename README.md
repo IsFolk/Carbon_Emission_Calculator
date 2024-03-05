@@ -1,7 +1,10 @@
 # Carbon emission calculator
 
-This is a group project from the ITRI internship project (I have consulted with my supervisor regarding whether it can be included as part of my portfolio.)
+This is a group project from the ITRI internship project.
 
+(I have consulted with my supervisor regarding whether it can be included as part of my portfolio.)
+
+## Description
 Carbon emissions project demo with Vue and Fastapi on AWS EC2.
 
 - yml, Dockerfile: for Docker setup
@@ -13,7 +16,7 @@ Carbon emissions project demo with Vue and Fastapi on AWS EC2.
 **We all use open-source data.**
 
 
-If you wanna see the demo video:
+## Demo video:
 
 https://youtu.be/N4bZNW1D6_4
 
@@ -22,7 +25,7 @@ https://youtu.be/N4bZNW1D6_4
 ![image](https://github.com/IsFolk/Vuejs_with_Fastapi/assets/61446488/da418588-9179-4a6c-8447-044492af3cb8)
 
 
-
+## Constructs
 ### Backend: Fastapi
 - Python environment
 ```
