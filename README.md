@@ -10,10 +10,7 @@ If you wanna see the demo site:
 
 https://youtu.be/N4bZNW1D6_4
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=N4bZNW1D6_4" target="_blank">
- <img src="http://img.youtube.com/vi/N4bZNW1D6_4/mqdefault.jpg" alt="Watch the video" width="500" height="500" border="10" />
-</a>
-
+[![Everything Is AWESOME](https://imgur.com/a/v9WLR3D)](https://www.youtube.com/watch?v=N4bZNW1D6_4-Y "Everything Is AWESOME")
 
 ### Backend: Fastapi
 - Python environment
