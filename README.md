@@ -5,7 +5,7 @@ This is a group project from **Industrial Technology Research Institute** intern
 (I have consulted with my supervisor regarding whether it can be included as part of my portfolio.)
 
 ## Description
-Carbon emissions project demo with Vue and Fastapi on AWS EC2.
+Carbon emissions project demo with Vue and Fastapi running on AWS EC2.
 
 - yml, Dockerfile: for Docker setup
 - frontend: write with Vue3 & Typescript
