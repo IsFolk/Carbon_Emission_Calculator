@@ -6,11 +6,15 @@ ITRI carbon emissions project demo with Vue and Fastapi.
 - frontend: write with Vue3 & Typescript
 - backend: write with Fastapi(Python)
 
-If you wanna see the demo site:
+If you wanna see the demo video:
 
 https://youtu.be/N4bZNW1D6_4
 
 [![Everything Is AWESOME](https://i.imgur.com/ACrnM5k.png)](https://www.youtube.com/watch?v=N4bZNW1D6_4-Y "Everything Is AWESOME")
+![image](https://github.com/IsFolk/Vuejs_with_Fastapi/assets/61446488/674991d9-62f1-460f-b892-d48dfe947b0a)
+![image](https://github.com/IsFolk/Vuejs_with_Fastapi/assets/61446488/da418588-9179-4a6c-8447-044492af3cb8)
+
+
 
 ### Backend: Fastapi
 - Python environment
