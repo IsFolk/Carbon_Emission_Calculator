@@ -10,7 +10,7 @@ If you wanna see the demo site:
 
 https://youtu.be/N4bZNW1D6_4
 
-[![Everything Is AWESOME](https://imgur.com/a/v9WLR3D)](https://www.youtube.com/watch?v=N4bZNW1D6_4-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://i.imgur.com/ACrnM5k.png)](https://www.youtube.com/watch?v=N4bZNW1D6_4-Y "Everything Is AWESOME")
 
 ### Backend: Fastapi
 - Python environment
