@@ -12,6 +12,11 @@ If you wanna see the demo site:
 [![Watch the video](https://img.youtube.com/vi/N4bZNW1D6_4/default.jpg)](https://youtu.be/N4bZNW1D6_4)
 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=N4bZNW1D6_4" target="_blank">
+ <img src="http://img.youtube.com/vi/N4bZNW1D6_4/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
+
 ### Backend: Fastapi
 - Python environment
 ```
