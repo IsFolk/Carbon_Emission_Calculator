@@ -1,4 +1,6 @@
-# Vuejs_with_Fastapi
+# Carbon emission calculator
+
+This is a group project from the ITRI internship project (I have consulted with my supervisor regarding whether it can be included as part of my portfolio.)
 
 Carbon emissions project demo with Vue and Fastapi on AWS EC2.
 
