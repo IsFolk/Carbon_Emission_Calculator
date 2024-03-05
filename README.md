@@ -1,6 +1,6 @@
 # Carbon emission calculator
 
-This is a group project from the ITRI internship project.
+This is a group project from **Industrial Technology Research Institute** internship project.
 
 (I have consulted with my supervisor regarding whether it can be included as part of my portfolio.)
 
