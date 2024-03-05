@@ -1,6 +1,6 @@
 # Vuejs_with_Fastapi
 
-ITRI carbon emissions project demo with Vue and Fastapi.
+ITRI carbon emissions project demo with Vue and Fastapi on AWS EC2.
 
 - yml, Dockerfile: for Docker setup
 - frontend: write with Vue3 & Typescript
